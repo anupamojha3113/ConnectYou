@@ -60,8 +60,3 @@ To enhance user experience, the platform uses **Gemini AI** for **automatic capt
 ### 🔹 Chat Feature
 ![Chat Screenshot](https://via.placeholder.com/600x300)
 
-
-## 📬 Contact
-For any queries or discussions, reach out:
-- **Email**: [a1.bhishek.pa.andey.com](mailto:a1.bhishek.p1.andey@gmail.com)
-- **Deployed Link**: [https://social-media-website-rust.vercel.app/](https://social-media-website-rust.vercel.app/)
